@@ -6,8 +6,8 @@ speed = 15
 
 #windows sizes
 
-frame_size_x = 1380
-frame_size_y= 840
+frame_size_x = 1200
+frame_size_y= 640
 
 
 check_errors = pygame.init()
