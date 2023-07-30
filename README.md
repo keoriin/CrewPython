@@ -1,3 +1,3 @@
-# Python-Joshua-
-# Hey This is my first project with Python technology, its Just Snake Game,Enjoy!
+# Python-Crew
+# LuL[Snake Game coding speedrun]
 # Weclome UP!
